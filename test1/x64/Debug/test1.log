@@ -1,0 +1,2 @@
+﻿  test1.cpp
+c:\users\spumm\documents\visual studio 2015\projects\test1\test1\test1.cpp(1): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory
